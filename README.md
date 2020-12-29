@@ -32,7 +32,7 @@ By downloading this data set, you expressly agree to the following conditions of
 
 ### A. Conditions of Release
 Data are available by permission of the authors. Use of data in publications, either digital or hardcopy, must be cited as follows: 
-Niehorster, D.C., Hessels, R.S., Cleveland, D. & Nyström, M. (in press). The pupil size artefact (PSA) across time, viewing direction and different eye trackers. Behavior Research Methods
+Hooge, I.T.C., Niehorster, D.C., Hessels, R.S., Cleveland, D. & Nyström, M. (in press). The pupil size artefact (PSA) across time, viewing direction and different eye trackers. Behavior Research Methods
 
 ### B. Disclaimer of Liability
 The authors shall not be held liable for any improper or incorrect use or application of the data provided, and assume no responsibility for the use or application of the data or interpretations based on the data, or information derived from interpretation of the data. In no event shall the authors be liable for any direct, indirect or incidental damage, injury, loss, harm, illness or other damage or injury arising from the release, use or application of these data. This disclaimer of liability applies to any direct, indirect, incidental, exemplary, special or consequential damages or injury, even if advised of the possibility of such damage or injury, including but not limited to those caused by any failure of performance, error, omission, defect, delay in operation or transmission, computer virus, alteration, use, application, analysis or interpretation of data.
