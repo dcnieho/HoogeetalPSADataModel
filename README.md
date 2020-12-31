@@ -16,6 +16,8 @@ Commons Attribution-NonCommercial-ShareAlike 4.0 (CC NC-BY-SA 4.0)
 license.
 
 Contents:
+- model: this folder contains the code to run the eye model
+- data: this folder contains the data for experiments 1--5
 
 Tested on MATLAB R2020a
 
@@ -23,6 +25,8 @@ Tested on MATLAB R2020a
 N.B.: complete details of changes made is available on [github](https://github.com/dcnieho/HoogeetalPSADataModel)
 ### Version 0.1
 - initial release containing just this README
+### Version 1.0
+- added model and experimental data
 
 
 
