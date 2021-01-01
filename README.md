@@ -1,6 +1,8 @@
-This repository contains the coder settings and event-based agreement
-score algorithms used and developed for the article Hooge, I.T.C.,
-Niehorster, D.C., Hessels, R.S., Cleveland, D. & Nyström, M. (in press). The pupil size artefact (PSA) across time, viewing direction and different eye trackers. Behavior Research Methods
+This repository contains the experiment data and eye model used and
+developed for the article _Hooge, I.T.C., Niehorster, D.C., Hessels,
+R.S., Cleveland, D. & Nyström, M. (in press). The pupil size artefact
+(PSA) across time, viewing direction and different eye trackers. Behavior
+Research Methods_
 
 When using the data or eye model in this repository in your
 work, please cite the Hooge et al. paper.
@@ -9,10 +11,10 @@ For more information or questions, e-mail: i.hooge@uu.nl /
 dcnieho@gmail.com. The latest version of this repository is available
 from www.github.com/dcnieho/HoogeetalPSADataModel
 
-The algorithms in this repository are licensed under the Creative
-Commons Attribution 4.0 (CC BY 4.0) license. The coder settings and
-eye-movement data used as stimuli are licensed under the Creative
-Commons Attribution-NonCommercial-ShareAlike 4.0 (CC NC-BY-SA 4.0)
+The eye model in this repository is licensed under the Creative
+Commons Attribution 4.0 (CC BY 4.0) license. The experiment data
+are licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 (CC NC-BY-SA 4.0)
 license.
 
 Contents:
